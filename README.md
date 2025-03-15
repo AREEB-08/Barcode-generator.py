@@ -1,4 +1,4 @@
-🎨✨ Project Overview
+🎨✨ BARCODE-GENEARTOR
 
 🚀 This Python project generates QR codes from any text, URL, or data and adds a custom label below the QR code. The final QR code is saved as an image file.
 
